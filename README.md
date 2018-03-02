@@ -6,4 +6,4 @@ Search image using google custom search engine in javascript with the same ui of
 
 # By: Sayed Mohamed
 
-# Website : https://seka95.herokuapp.com
+# Website : https://sekaa.herokuapp.com
